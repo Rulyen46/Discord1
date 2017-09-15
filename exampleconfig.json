@@ -1,8 +1,8 @@
 {
-    "apikey": "public warcraftlogs api key",
-    "region": "US, EU, KR, TW or CN",
-    "realm": "realm-name",
-    "guild": "guild-name",
+    "apikey": "79cca91761d8cc1e18dcf9091a9e68df",
+    "region": "US",
+    "realm": "Area-52",
+    "guild": "Gomorrah",
     "seconds": 15,
-    "discordURL": "discord webhook url"
+    "discordURL": "https://discordapp.com/api/webhooks/358128902352142337/y5w1khAwBSEpJYNkZnqJ5MyQd2MC5wepSB1gVLDtu36PnOBBet8z8eJEjdzOTivgtA2i"
 }
